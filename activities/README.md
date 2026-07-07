@@ -14,7 +14,8 @@ This folder is intended for activity prompts, instructional design exercises, an
 
 This opening activity asks new faculty to reflect on four foundational questions:
 
-- What is education?
+- What is education? 
+   Education, in relation to critical thinking and discipline, can be defined as the process of guiding a person to think independently, question assumptions, and develop self-control, responsibility, and habits of learning. It is not only about gaining knowledge, but also about training the mind to reason clearly and the character to stay focused, consistent, and committed to growth.
 - What is learning?
 - What is teaching?
 - What is your philosophy of learning?
