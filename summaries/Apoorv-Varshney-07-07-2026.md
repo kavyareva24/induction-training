@@ -1,0 +1,2 @@
+What is education?
+Education is the process of facilitating learning, or the acquisition of knowledge, skills, values, beliefs, and habits. It is an essential aspect of human development and plays a crucial role in shaping individuals and societies. Education can take place in various forms, including formal, informal, and non-formal settings, and can be delivered through different mediums, such as schools, universities, online platforms, and community programs.
