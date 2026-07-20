@@ -32,16 +32,16 @@ GitHub repository.
 
 ## Semester Modules
 
-  Module      Weeks Theme                                 Activities
-  -------- -------- ----------------------------------- ------------
-  M1           1--2 RL Foundations                                 6
-  M2           3--4 MDPs                                           6
-  M3           5--6 Dynamic Programming                            6
-  M4           7--8 Monte Carlo                                    6
-  M5          9--10 Temporal Difference                            6
-  M6         11--12 Deep Q Networks                                6
-  M7         13--14 Policy Gradient & Actor-Critic                 6
-  M8             15 Capstone, Ethics & AI-assisted RL              3
+ | Module | Weeks | Theme | Activities |
+ | :--------: | :--------: | :-----------------------------------: | :------------: |
+ |	M1      |      1-2 | RL Foundations                      |           6 	|
+ |  M2      |      3-4 | MDPs                                |           6  |
+ |  M3      |      5-6 | Dynamic Programming                 |           6  |
+ |  M4      |      7-8 | Monte Carlo Methods                 |           6  |
+ |  M5      |      9-10| Temporal Difference Learning        |           6  |
+ |  M6      |     11-12| Deep Reinforcement Learning         |           6  |
+ |  M7      |     13-14| Policy Gradient & Actor-Critic      |           6  |
+ |  M8      |      15  | Capstone, Ethics & AI-assisted RL   |           3  |
 
 **Total Activities: 45**
 
@@ -56,7 +56,7 @@ submission
 
 ------------------------------------------------------------------------
 
-# Activity Map (#commment: only design an activity which can be graded, also consider autograding)
+# Activity Map 
 
 ## Module 1: Foundations of Reinforcement Learning (Weeks 1–2)
 
